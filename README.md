@@ -24,6 +24,6 @@ This degree covers:
 
 ## Certificate of Completion
 
-You can see the [MLEFundamental Course Certificate](https://github.com/eaamankwah/Certificates/blob/main/Udacity-Fundamental-course-in-the%20AWS-Machine-Learning-Scholarship.pdf)
+You can see the [MLE Fundamental Course Certificate](https://github.com/eaamankwah/Certificates/blob/main/Udacity-Fundamental-course-in-the%20AWS-Machine-Learning-Scholarship.pdf)
 
-You can see the [MLE Nanodegre](https://github.com/eaamankwah/Certificates/blob/main/Udacity_MLEND_certificate.pdf)
+You can see the [MLE Nanodegree](https://github.com/eaamankwah/Certificates/blob/main/Udacity_MLEND_certificate.pdf)
